@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Engenharia de Software, Programador Python
+<p>Desenvolvedor de software Python que combina paixão, conhecimento e uma abordagem inteligente para criar soluções tecnológicas inovadoras. Estou determinado a deixar uma marca duradoura no campo da tecnologia, utilizando meu intelecto afiado e habilidades excepcionais para abrir caminho para um futuro mais inteligente e avançado.</>
 
 
 ## 🌐 Socials:
